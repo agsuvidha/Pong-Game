@@ -3,5 +3,5 @@ html, body {
   padding: 0;
 }
 canvas {
-  display: 2px solid black;
+  display: block;
 }
